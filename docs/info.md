@@ -13,8 +13,11 @@ Input a + b + c enalbes outputs c,d,e,f,g
 
 ## How to test
 
-Explain how to use your project
+| Inputs a + b + c | output a | output b | output c | output d | output e | output f | output g | output h |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 |
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+- 7 Segement display
