@@ -22,6 +22,8 @@ pinout:
   ui[3]: "A13"
   ui[4]: "A14"
   ui[5]: "A15"
+  ui[6]: ""
+  ui[7]: ""
 
   # Outputs
   uo[0]: "ROM_CS"
@@ -31,6 +33,7 @@ pinout:
   uo[4]: "VIA_CS"
   uo[5]: "URAT_CS"
   uo[6]: "SID_CS"
+  uo[7]: ""
 
   # Bidirectional pins
   uio[0]: ""
