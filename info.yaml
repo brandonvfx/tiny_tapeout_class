@@ -17,23 +17,20 @@ project:
 pinout:
   # Inputs
   ui[0]: "CLK"
-  ui[1]: ""
-  ui[2]: ""
-  ui[3]: "A11"
-  ui[4]: "A12"
-  ui[5]: "A13"
-  ui[6]: "A14"
-  ui[7]: "A15"
+  ui[1]: "A11"
+  ui[2]: "A12"
+  ui[3]: "A13"
+  ui[4]: "A14"
+  ui[5]: "A15"
 
   # Outputs
-  uo[0]: ""
-  uo[1]: "ROM_CS"
-  uo[2]: "RAM_CS"
-  uo[3]: "RAM_OE"
-  uo[4]: "PERIPH_CS"
-  uo[5]: "VIA_CS"
-  uo[6]: "URAT_CS"
-  uo[7]: "SID_CS"
+  uo[0]: "ROM_CS"
+  uo[1]: "RAM_CS"
+  uo[2]: "RAM_OE"
+  uo[3]: "PERIPH_CS"
+  uo[4]: "VIA_CS"
+  uo[5]: "URAT_CS"
+  uo[6]: "SID_CS"
 
   # Bidirectional pins
   uio[0]: ""
