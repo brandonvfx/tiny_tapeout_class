@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1762762293" />
+    <testcase name="test_project" classname="test" file="/workspaces/TT_SKY25b_eater_chip_select/test/test.py" lineno="9" time="0.003184080123901367" sim_time_ns="710000.0" ratio_time="222984338.45001873" />
+  </testsuite>
+</testsuites>
